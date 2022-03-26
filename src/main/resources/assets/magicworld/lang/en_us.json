@@ -1,0 +1,79 @@
+{
+  "itemGroup.magicWorldTab": "Magic World",
+
+
+  "item.magicworld.copper_ingot": "Copper Ingot",
+  "item.magicworld.copper_wire": "Copper Wire",
+  "item.magicworld.coppered_apple": "Coppered Apple",
+  "item.magicworld.fire_powder": "Fire Powder",
+  "item.magicworld.orange_fire_powder": "Orange Fire Powder",
+  "item.magicworld.black_fire_powder": "Black Fire Powder",
+  "item.magicworld.blue_fire_powder": "Blue Fire Powder",
+  "item.magicworld.brown_fire_powder": "Brown Fire Powder",
+  "item.magicworld.cyan_fire_powder": "Cyan Fire Powder",
+  "item.magicworld.gray_fire_powder": "Gray Fire Powder",
+  "item.magicworld.green_fire_powder": "Green Fire Powder",
+  "item.magicworld.light_blue_fire_powder": "Light Blue Fire Powder",
+  "item.magicworld.light_gray_fire_powder": "Light Gray Fire Powder",
+  "item.magicworld.lime_fire_powder": "Lime Fire Powder",
+  "item.magicworld.magenta_fire_powder": "Magenta Fire Powder",
+  "item.magicworld.pink_fire_powder": "Pink Fire Powder",
+  "item.magicworld.purple_fire_powder": "Purple Fire Powder",
+  "item.magicworld.red_fire_powder": "Red Fire Powder",
+  "item.magicworld.white_fire_powder": "White Fire Powder",
+  "item.magicworld.yellow_fire_powder": "Yellow Fire Powder",
+
+
+  "block.magicworld.zucchini_crop": "Zucchini Seeds",
+
+
+  "item.magicworld.copper_shovel": "Copper Shovel",
+  "item.magicworld.copper_sword": "Copper Sword",
+  "item.magicworld.copper_pickaxe": "Copper Pickaxe",
+  "item.magicworld.copper_hoe": "Copper Hoe",
+  "item.magicworld.copper_axe": "Copper Axe",
+
+
+  "item.magicworld.copper_helmet": "Copper Helmet",
+  "item.magicworld.copper_chestplate": "Copper Chestplate",
+  "item.magicworld.copper_leggings": "Copper Leggings",
+  "item.magicworld.copper_boots": "Copper Boots",
+
+
+  "item.magicworld.oil_bucket": "Oil Bucket",
+
+
+  "block.magicworld.copper_block": "Copper Block",
+  "block.magicworld.copper_ore": "Copper Ore",
+  "block.magicworld.copper_stairs": "Copper Stairs",
+  "block.magicworld.copper_fence": "Copper Fence",
+  "block.magicworld.copper_fence_gate": "Copper Fence Gate",
+  "block.magicworld.copper_pressure_plate": "Copper Pressure Plate",
+  "block.magicworld.copper_slab": "Copper Slab",
+  "block.magicworld.copper_button": "Copper Button",
+  "block.magicworld.black_fire": "Black Fire",
+  "block.magicworld.blue_fire": "Blue Fire",
+  "block.magicworld.brown_fire": "Brown Fire",
+  "block.magicworld.cyan_fire": "Cyan Fire",
+  "block.magicworld.gray_fire": "Gray Fire",
+  "block.magicworld.green_fire": "Green Fire",
+  "block.magicworld.light_blue_fire": "Light Blue Fire",
+  "block.magicworld.light_gray_fire": "Light Gray Fire",
+  "block.magicworld.lime_fire": "Lime Fire",
+  "block.magicworld.magenta_fire": "Magenta Fire",
+  "block.magicworld.orange_fire": "Orange Fire",
+  "block.magicworld.pink_fire": "Pink Fire",
+  "block.magicworld.purple_fire": "Purple Fire",
+  "block.magicworld.red_fire": "Red Fire",
+  "block.magicworld.white_fire": "White Fire",
+  "block.magicworld.yellow_fire": "Yellow Fire",
+
+  "block.magicworld.acacia_corner": "Acacia Corner",
+  "block.magicworld.birch_corner": "Birch Corner",
+  "block.magicworld.crimson_corner": "Crimson Corner",
+  "block.magicworld.dark_oak_corner": "Dark Oak Corner",
+  "block.magicworld.jungle_corner": "Jungle Corner",
+  "block.magicworld.oak_corner": "Oak Corner",
+  "block.magicworld.spruce_corner": "Spruce Corner",
+  "block.magicworld.warped_corner": "Warped Corner"
+}

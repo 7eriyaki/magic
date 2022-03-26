@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "magicworld:block/copper_slab"
+    },
+    "type=double": {
+      "model": "magicworld:block/copper_block"
+    },
+    "type=top": {
+      "model": "magicworld:block/copper_slab_top"
+    }
+  }
+}

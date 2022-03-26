@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "magicworld:block/copper_pressure_plate" },
+    "powered=true": { "model": "magicworld:block/copper_pressure_plate_down" }
+  }
+}

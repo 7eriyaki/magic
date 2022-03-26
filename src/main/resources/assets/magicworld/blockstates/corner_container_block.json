@@ -1,0 +1,274 @@
+{
+  "multipart": [
+    {
+      "when": {"corner_pos0": "true", "corner_block_model": "acacia_corner"},
+      "apply": {"model": "magicworld:block/acacia_corner", "uvlock": true}
+    },
+    {
+      "when": {"corner_pos1": "true", "corner_block_model": "acacia_corner"},
+      "apply": {"model": "magicworld:block/acacia_corner", "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos2": "true", "corner_block_model": "acacia_corner"},
+      "apply": {"model": "magicworld:block/acacia_corner", "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos3": "true", "corner_block_model": "acacia_corner"},
+      "apply": {"model": "magicworld:block/acacia_corner", "y": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos4": "true", "corner_block_model": "acacia_corner"},
+      "apply": {"model": "magicworld:block/acacia_corner", "x": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos5": "true", "corner_block_model": "acacia_corner"},
+      "apply": {"model": "magicworld:block/acacia_corner", "x": 270, "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos6": "true", "corner_block_model": "acacia_corner"},
+      "apply": {"model": "magicworld:block/acacia_corner", "x": 270, "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos7": "true", "corner_block_model": "acacia_corner"},
+      "apply": {"model": "magicworld:block/acacia_corner", "x": 180, "uvlock": true}
+    },
+
+
+    {
+      "when": {"corner_pos0": "true", "corner_block_model": "birch_corner"},
+      "apply": {"model": "magicworld:block/birch_corner", "uvlock": true}
+    },
+    {
+      "when": {"corner_pos1": "true", "corner_block_model": "birch_corner"},
+      "apply": {"model": "magicworld:block/birch_corner", "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos2": "true", "corner_block_model": "birch_corner"},
+      "apply": {"model": "magicworld:block/birch_corner", "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos3": "true", "corner_block_model": "birch_corner"},
+      "apply": {"model": "magicworld:block/birch_corner", "y": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos4": "true", "corner_block_model": "birch_corner"},
+      "apply": {"model": "magicworld:block/birch_corner", "x": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos5": "true", "corner_block_model": "birch_corner"},
+      "apply": {"model": "magicworld:block/birch_corner", "x": 270, "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos6": "true", "corner_block_model": "birch_corner"},
+      "apply": {"model": "magicworld:block/birch_corner", "x": 270, "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos7": "true", "corner_block_model": "birch_corner"},
+      "apply": {"model": "magicworld:block/birch_corner", "x": 180, "uvlock": true}
+    },
+
+
+    {
+      "when": {"corner_pos0": "true", "corner_block_model": "crimson_corner"},
+      "apply": {"model": "magicworld:block/crimson_corner", "uvlock": true}
+    },
+    {
+      "when": {"corner_pos1": "true", "corner_block_model": "crimson_corner"},
+      "apply": {"model": "magicworld:block/crimson_corner", "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos2": "true", "corner_block_model": "crimson_corner"},
+      "apply": {"model": "magicworld:block/crimson_corner", "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos3": "true", "corner_block_model": "crimson_corner"},
+      "apply": {"model": "magicworld:block/crimson_corner", "y": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos4": "true", "corner_block_model": "crimson_corner"},
+      "apply": {"model": "magicworld:block/crimson_corner", "x": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos5": "true", "corner_block_model": "crimson_corner"},
+      "apply": {"model": "magicworld:block/crimson_corner", "x": 270, "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos6": "true", "corner_block_model": "crimson_corner"},
+      "apply": {"model": "magicworld:block/crimson_corner", "x": 270, "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos7": "true", "corner_block_model": "crimson_corner"},
+      "apply": {"model": "magicworld:block/crimson_corner", "x": 180, "uvlock": true}
+    },
+
+
+    {
+      "when": {"corner_pos0": "true", "corner_block_model": "dark_oak_corner"},
+      "apply": {"model": "magicworld:block/dark_oak_corner", "uvlock": true}
+    },
+    {
+      "when": {"corner_pos1": "true", "corner_block_model": "dark_oak_corner"},
+      "apply": {"model": "magicworld:block/dark_oak_corner", "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos2": "true", "corner_block_model": "dark_oak_corner"},
+      "apply": {"model": "magicworld:block/dark_oak_corner", "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos3": "true", "corner_block_model": "dark_oak_corner"},
+      "apply": {"model": "magicworld:block/dark_oak_corner", "y": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos4": "true", "corner_block_model": "dark_oak_corner"},
+      "apply": {"model": "magicworld:block/dark_oak_corner", "x": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos5": "true", "corner_block_model": "dark_oak_corner"},
+      "apply": {"model": "magicworld:block/dark_oak_corner", "x": 270, "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos6": "true", "corner_block_model": "dark_oak_corner"},
+      "apply": {"model": "magicworld:block/dark_oak_corner", "x": 270, "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos7": "true", "corner_block_model": "dark_oak_corner"},
+      "apply": {"model": "magicworld:block/dark_oak_corner", "x": 180, "uvlock": true}
+    },
+
+
+    {
+      "when": {"corner_pos0": "true", "corner_block_model": "jungle_corner"},
+      "apply": {"model": "magicworld:block/jungle_corner", "uvlock": true}
+    },
+    {
+      "when": {"corner_pos1": "true", "corner_block_model": "jungle_corner"},
+      "apply": {"model": "magicworld:block/jungle_corner", "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos2": "true", "corner_block_model": "jungle_corner"},
+      "apply": {"model": "magicworld:block/jungle_corner", "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos3": "true", "corner_block_model": "jungle_corner"},
+      "apply": {"model": "magicworld:block/jungle_corner", "y": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos4": "true", "corner_block_model": "jungle_corner"},
+      "apply": {"model": "magicworld:block/jungle_corner", "x": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos5": "true", "corner_block_model": "jungle_corner"},
+      "apply": {"model": "magicworld:block/jungle_corner", "x": 270, "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos6": "true", "corner_block_model": "jungle_corner"},
+      "apply": {"model": "magicworld:block/jungle_corner", "x": 270, "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos7": "true", "corner_block_model": "jungle_corner"},
+      "apply": {"model": "magicworld:block/jungle_corner", "x": 180, "uvlock": true}
+    },
+
+
+    {
+      "when": {"corner_pos0": "true", "corner_block_model": "oak_corner"},
+      "apply": {"model": "magicworld:block/oak_corner", "uvlock": true}
+    },
+    {
+      "when": {"corner_pos1": "true", "corner_block_model": "oak_corner"},
+      "apply": {"model": "magicworld:block/oak_corner", "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos2": "true", "corner_block_model": "oak_corner"},
+      "apply": {"model": "magicworld:block/oak_corner", "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos3": "true", "corner_block_model": "oak_corner"},
+      "apply": {"model": "magicworld:block/oak_corner", "y": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos4": "true", "corner_block_model": "oak_corner"},
+      "apply": {"model": "magicworld:block/oak_corner", "x": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos5": "true", "corner_block_model": "oak_corner"},
+      "apply": {"model": "magicworld:block/oak_corner", "x": 270, "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos6": "true", "corner_block_model": "oak_corner"},
+      "apply": {"model": "magicworld:block/oak_corner", "x": 270, "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos7": "true", "corner_block_model": "oak_corner"},
+      "apply": {"model": "magicworld:block/oak_corner", "x": 180, "uvlock": true}
+    },
+
+
+    {
+      "when": {"corner_pos0": "true", "corner_block_model": "spruce_corner"},
+      "apply": {"model": "magicworld:block/spruce_corner", "uvlock": true}
+    },
+    {
+      "when": {"corner_pos1": "true", "corner_block_model": "spruce_corner"},
+      "apply": {"model": "magicworld:block/spruce_corner", "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos2": "true", "corner_block_model": "spruce_corner"},
+      "apply": {"model": "magicworld:block/spruce_corner", "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos3": "true", "corner_block_model": "spruce_corner"},
+      "apply": {"model": "magicworld:block/spruce_corner", "y": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos4": "true", "corner_block_model": "spruce_corner"},
+      "apply": {"model": "magicworld:block/spruce_corner", "x": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos5": "true", "corner_block_model": "spruce_corner"},
+      "apply": {"model": "magicworld:block/spruce_corner", "x": 270, "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos6": "true", "corner_block_model": "spruce_corner"},
+      "apply": {"model": "magicworld:block/spruce_corner", "x": 270, "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos7": "true", "corner_block_model": "spruce_corner"},
+      "apply": {"model": "magicworld:block/spruce_corner", "x": 180, "uvlock": true}
+    },
+
+
+    {
+      "when": {"corner_pos0": "true", "corner_block_model": "warped_corner"},
+      "apply": {"model": "magicworld:block/warped_corner", "uvlock": true}
+    },
+    {
+      "when": {"corner_pos1": "true", "corner_block_model": "warped_corner"},
+      "apply": {"model": "magicworld:block/warped_corner", "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos2": "true", "corner_block_model": "warped_corner"},
+      "apply": {"model": "magicworld:block/warped_corner", "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos3": "true", "corner_block_model": "warped_corner"},
+      "apply": {"model": "magicworld:block/warped_corner", "y": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos4": "true", "corner_block_model": "warped_corner"},
+      "apply": {"model": "magicworld:block/warped_corner", "x": 270, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos5": "true", "corner_block_model": "warped_corner"},
+      "apply": {"model": "magicworld:block/warped_corner", "x": 270, "y": 90, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos6": "true", "corner_block_model": "warped_corner"},
+      "apply": {"model": "magicworld:block/warped_corner", "x": 270, "y": 180, "uvlock": true}
+    },
+    {
+      "when": {"corner_pos7": "true", "corner_block_model": "warped_corner"},
+      "apply": {"model": "magicworld:block/warped_corner", "x": 180, "uvlock": true}
+    }
+  ]
+}
