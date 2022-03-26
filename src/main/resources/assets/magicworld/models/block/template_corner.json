@@ -1,0 +1,57 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [8, 8, 8],
+      "faces": {
+        "north": {"uv": [0, 0, 8, 8], "texture": "#side", "culface": true},
+        "east": {"uv": [0, 0, 8, 8], "texture": "#side"},
+        "south": {"uv": [0, 0, 8, 8], "texture": "#side"},
+        "west": {"uv": [0, 0, 8, 8], "texture": "#side", "culface": true},
+        "up": {"uv": [0, 0, 8, 8], "texture": "#top"},
+        "down": {"uv": [0, 0, 8, 8], "texture": "#bottom", "culface": true}
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [1, 1, 0],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "thirdperson_lefthand": {
+      "translation": [-1, 1, 0],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "firstperson_righthand": {
+      "translation": [1, 1, 0],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "firstperson_lefthand": {
+      "translation": [1, 1, 0],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "ground": {
+      "translation": [1, 0, 1],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "gui": {
+      "translation": [2, 2, 0],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "head": {
+      "translation": [4, 14, 4]
+    },
+    "fixed": {
+      "translation": [2, 2, 0],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  },
+  "groups": [
+    {
+      "name": "VoxelShapes",
+      "origin": [8, 8, 8],
+      "children": [0]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "magicworld:block/copper_block",
+    "top": "magicworld:block/copper_block",
+    "side": "magicworld:block/copper_block"
+  }
+}

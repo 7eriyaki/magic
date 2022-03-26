@@ -1,0 +1,7 @@
+{
+  "parent": "magicworld:block/template_fire_side_alt",
+  "textures": {
+    "fire": "magicworld:block/fire_1",
+    "overlay": "magicworld:block/fire_1_overlay"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "ambientocclusion": false,
+    "elements": [
+        {   "from": [ 0, 0, 0.01 ],
+            "to": [ 16, 22.4, 0.01 ],
+            "shade": false,
+            "faces": {
+                "south": { "uv": [ 16, 0, 0, 16 ], "texture": "#fire" , "tintindex": 0},
+                "north": { "uv": [ 16, 0, 0, 16 ], "texture": "#fire" , "tintindex": 0}
+            }
+        },
+        {   "from": [ 0, 0, 0.01 ],
+            "to": [ 16, 22.4, 0.01 ],
+            "shade": false,
+            "faces": {
+                "south": { "uv": [ 16, 0, 0, 16 ], "texture": "#overlay" , "tintindex": 1},
+                "north": { "uv": [ 16, 0, 0, 16 ], "texture": "#overlay" , "tintindex": 1}
+            }
+        }
+    ]
+}

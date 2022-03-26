@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "texture": "magicworld:block/copper_block"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "magicworld:block/zucchini_crop_stage6"
+  }
+}
