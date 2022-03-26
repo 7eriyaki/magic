@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "magicworld:copper_ore"
+  },
+  "result": "magicworld:copper_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

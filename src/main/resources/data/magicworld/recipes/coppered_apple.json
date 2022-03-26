@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xax",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "magicworld:copper_ingot"
+    },
+    "a": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "magicworld:coppered_apple"
+  }
+}

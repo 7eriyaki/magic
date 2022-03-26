@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "c  ",
+    "cc ",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+      "item": "magicworld:copper_block"
+    }
+  },
+  "result": {
+    "item": "magicworld:copper_stairs",
+    "count": 4
+  }
+}
